@@ -1,6 +1,6 @@
 streamlit==1.36.0
 pandas
-matplotlib
+#matplotlib
 langchain-text-splitters
 #streamlit>=1.26.0
 #requests>=2.31.0
