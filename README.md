@@ -1,2 +1,2 @@
-# insp_orchestration
-Orchestration pipeline 
+chmod +x setup.sh
+./setup.sh
