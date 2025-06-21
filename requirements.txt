@@ -1,31 +1,17 @@
-# UI + Core
 streamlit==1.36.0
 pandas
 openpyxl
 requests
 python-dotenv
-
-# File Handling
 PyPDF2
 pypdf
 python-docx
-
-# LLM Stack
 transformers
-#torch
 accelerate
 sentencepiece
 sentence-transformers
-
-# Langchain + Embeddings
 langchain
 langchain-community
 langchain-text-splitters
 huggingface-hub
-
-# Vector Search
-#faiss-cpu  # remove or replace if it fails on Streamlit Cloud
-
-# Inference Providers
 openai
-#cerebras-cloud-sdk
