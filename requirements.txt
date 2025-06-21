@@ -12,7 +12,7 @@ python-docx
 
 # LLM Stack
 transformers
-torch
+#torch
 accelerate
 sentencepiece
 sentence-transformers
@@ -24,8 +24,8 @@ langchain-text-splitters
 huggingface-hub
 
 # Vector Search
-faiss-cpu  # remove or replace if it fails on Streamlit Cloud
+#faiss-cpu  # remove or replace if it fails on Streamlit Cloud
 
 # Inference Providers
 openai
-cerebras-cloud-sdk
+#cerebras-cloud-sdk
